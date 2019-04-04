@@ -1,0 +1,5 @@
+commit 587395ac47889821cb5a61ce07d73894e37db836 (HEAD -> logs, origin/master, master)
+Author: rusimka <rusimkad@gmail.com>
+Date:   Thu Apr 4 10:27:25 2019 +0200
+
+    Initial commit
